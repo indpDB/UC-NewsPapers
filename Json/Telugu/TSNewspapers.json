@@ -8,10 +8,10 @@
 	},*/
 	{
 		"Names": "AndhraJyothi - Main & Dist Editions ",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/st7g4el1je6ngf1/AndhraJyothi_Telangana.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/ci2ax6p8qbvdave/AndhraJyothi_Telangana.pdf",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ts_Main/AndhraJyothi_Telangana.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ts_Main/AndhraJyothi_Telangana.pdf",
 		"DisticEditions": "Yes",
-		"DisticEditionsLinks": "https://dl.dropboxusercontent.com/s/7tmm36o0hadpuip/TSAndhrajyothiDist.json"
+		"DisticEditionsLinks": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/TSAndhrajyothiDist.json"
 	},
 /*{
 		"Names": "Eenadu",
