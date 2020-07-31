@@ -1,0 +1,93 @@
+[
+	{
+		"Names": "DeccanCronicle - Main & Dist Edtions",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/5nrjr4ajuqxqi9s/DeccanCronicle.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/j7wc6h676z5cv8b/DeccanCronicle.pdf",
+		"DisticEditions": "Yes",
+		"DisticEditionsLinks": "https://dl.dropboxusercontent.com/s/4ohn9wyn9yqwjxn/EngDeccanCronicleDIst.json"
+	},
+	{
+		"Names": "FinacialExpress",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/pvi4smnim4ix2qv/FinacialExpress.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/iq1zg9s8k3w7rpd/FinacialExpress.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "HansIndia",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/vwv3tbnc1t4msfu/HansIndia.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/bofco92c776mobj/HansIndia.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "HindustanTimes",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/wevzzf4xxgza6fx/HindustanTimes.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/aapkc8uqol8iv0r/HindustanTimes.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "IndianExpress",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/3ioc2fh8muldbu9/IndianExpress.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/05gw21rp4333sk9/IndianExpress.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "MumbaiMirror",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/o234kksumysvdlz/MumbaiMirror.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/e9gnf7tzra9wmgw/MumbaiMirror.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "TheAsianAge",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/dbg2ya08q3790wg/TheAsianAge.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/85t4cb3x0m8f52r/TheAsianAge.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "TheEconomicTimes",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/b7rz75lrjnumk5m/TheEconomicTimes.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/97a0bw8xwm0y1om/TheEconomicTimes.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "TheHindu",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/90nha2iey31cl5o/TheHindu.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/05epwkynao9uvlk/TheHindu.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "TheStatesMan",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/mydultgibcsdf9y/TheStatesMan.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/x04th2wg38s9n9j/TheStatesMan.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "TheTimeOfIndia",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/dgopb9q44p2pwlj/TheTimeOfIndia.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/lqkvibv0iwf9f1u/TheTimeOfIndia.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "TheTribune",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/tgkcn71rjaa8q5p/TheTribune.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/ih8flzfhlwqz70m/TheTribune.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "MailToday",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/sh6ud7mif2242if/MailToday.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/32h0w1rkjbylc81/MailToday.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	}
+]

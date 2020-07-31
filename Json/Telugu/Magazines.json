@@ -1,0 +1,72 @@
+[
+		/*{
+		"Names": "",
+		"IconUrl": "",
+		"PdfUrl": "",
+		"DisticEditions": "",
+		"DisticEditionsLinks": ""
+	},*/
+	{
+		"Names": "AndhraJyothy",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/0hrz4wvnk2xbaod/AndhraJyothy.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/1p0wjhvaequ31h2/AndhraJyothy.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+		{
+		"Names": "Eendu",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/kzzvwpoh2jvgiqg/Eenadu.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/wwb9d3wmjmc4quh/Eenadu.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+},
+	{
+		"Names": "NamastheTelangana",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/62xglcyk78lwfla/NamastheTelangana.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/856rdgssrlr4vd0/NamastheTelangana.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "NavaTelangana",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/e5y4gvc964bn9ti/NavaTelangana.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/ku35vydmkudnj87/NavaTelangana.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "PrajaSakti",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/nmn1hyvdn2rmhs9/PrajaSakti.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/hlubwaw10tazl0o/PrajaSakti.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "Sakshi",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/apihe65urid744c/Sakshi.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/l3evprhy59bhanx/Sakshi.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "Surya",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/ttcemke6vfjnhuj/Surya.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/3iwkcvk0z5y9qtd/Surya.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "TeluguVelugu",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/5a7czsuea41pfd5/TeluguVelugu.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/793dbuoi41uwp1m/TeluguVelugu.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "Visalaandhra",
+		"IconUrl": "https://www.dropbox.com/s/0ixcd789v67qvlu/Visalaandhra.jpg",
+		"PdfUrl": "https://www.dropbox.com/s/zb3hfkd4pehptml/Visalaandhra.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	}
+]

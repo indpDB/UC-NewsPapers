@@ -1,0 +1,58 @@
+[
+	{
+		"Names": "MainEdtion",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/pvozfl6ygcc6nsq/DeccanCronicle.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/qgtdqq9443fy8ab/DeccanCronicle.pdf"
+	},
+	{
+		"Names": "Anantapur",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/rwk2pay4mcxb25n/Ananthapur_DC.jpg",		
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/9q43ggzclxnolv6/Ananthapur_DC.pdf"
+	},
+	{
+		"Names": "Chennai",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/glabumk1lfpm98g/Chennai_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/bx29bsz564t7ftj/Chennai_DC.pdf"
+	},
+	{
+		"Names": "Coimbatore",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/o816i4wvjzyd00q/Coimbatore_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/o816i4wvjzyd00q/Coimbatore_DC.jpg"
+	},
+	{
+		"Names": "Hyderabad",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/wyh8tab09nr6j73/Hyderabad_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/c3q6lb00z15j1t0/Hyderabad_DC.pdf"
+	},
+	{
+		"Names": "Karimnagar",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/vrau198gcof3nn6/Karimnagar_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/mxfgcd9i88y3mj7/Karimnagar_DC.pdf"
+	},
+	{
+		"Names": "Madurai",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/8qjqdbjrkv4wwth/Madurai_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/kaa5zmshtq682jg/Madurai_DC.pdf"
+	},
+	{
+		"Names": "Nellore",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/5xe9uho2ud7vaec/Nellore_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/2y940hqnjyjjyzx/Nellore_DC.pdf"
+	},
+	{
+		"Names": "Rajahmundry",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/odhg7r4k8f0grj4/Rajahmundry_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/7lnxyrqf267zcvg/Rajahmundry_DC.pdf"
+	},
+	
+	{
+		"Names": "Vijayawada",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/vohnbvb3jcz72my/Vijayawada_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/ol05wze943qrjin/Vijayawada_DC.pdf"
+	},
+	{
+		"Names": "Vizag",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/vkv2sk74w6t3i14/Vizag_DC.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/2g27xuinf90d5bu/Vizag_DC.pdf"
+	}
+]

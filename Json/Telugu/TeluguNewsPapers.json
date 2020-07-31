@@ -1,0 +1,34 @@
+[
+	{
+		
+		"TabName": "AP-Papers",
+		"Url": "https://dl.dropboxusercontent.com/s/xr00n7nhk4y6v3p/APNwesPapers.json",
+		"Type": "No"
+	},
+	{
+		"TabName": "TS-papers ",
+		"Url": "https://dl.dropboxusercontent.com/s/zudll4a0fmdh2jw/TSNewspapers.json",
+		"Type": "No"
+	},
+		{
+		"TabName": "FlashNews",
+		"Url": "https://dl.dropboxusercontent.com/s/ui11cjq4ami03h5/FlashNews.json",
+		"Type": "Yes"
+	},
+	
+	{
+		"TabName": "LiveTV",
+		"Url": "https://dl.dropboxusercontent.com/s/6u9as3t0kc0hfdv/LiveTV.json",
+		"Type": "Yes"
+	},
+	{
+		"TabName": "Magazines",
+		"Url": "https://dl.dropboxusercontent.com/s/zw2co7yb5lcjtn0/Magazines.json",
+		"Type": "No"
+	},	
+	{
+		"TabName": "EnglishNewsPapers",
+		"Url": "https://dl.dropboxusercontent.com/s/xx4dw2ezrc88jww/EnglishNewsPapers.json",
+		"Type": "No"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	/*{
+		"Names": "",
+		"IconUrl": "",
+		"PdfUrl": "",
+		"DisticEditions": "",
+		"DisticEditionsLinks": ""
+	},*/
+	{
+		"Names": "AndhraJyothi - Main & Dist Editions ",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/66zpu08eshhynim/AndhraJyothi_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/ibk6k5oewwt3quw/AndhraJyothi_Andhra-Pradesh.pdf",
+		"DisticEditions": "Yes",
+		"DisticEditionsLinks": "https://dl.dropboxusercontent.com/s/fx3vqrarx4lniae/APAndhrajyothiDisst.json"
+	},
+/*{
+		"Names": "Eenadu",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/9p4ymzgy0n4nsqv/Eenadu_AndhraPradesh.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/1v8zwgszfauuvem/Eenadu_AndhraPradesh.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},*/
+	{
+		"Names": "AndhraPrabha",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/xic1ownklby3718/Prabha_Andhra-Pradesh-Main.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/cm6qpxjkfnsuvdb/Prabha_Andhra-Pradesh-Main.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "Sakshi",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/tl8p4bx21du9ttu/Sakshi_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/k7dqae2xtvmj0pn/Sakshi_Andhra-Pradesh.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	
+	{
+		"Names": "Manam",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/8yln94xa51d6nv6/Manam_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/zz98zwry5guhukg/Manam_Andhra-Pradesh.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "Vartha",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/5v59mpnemabdnoh/Vaartha_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/7itm63zsloxz8og/Vaartha_Andhra-Pradesh.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "Visalandhra",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/2edn49n1a1ruzpb/Visalaandra_andhrapradesh_.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/k8pewsqyqh5fydg/Visalaandra_andhrapradesh_.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "PrajaSakthi",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/ekl3rb7lpofobzs/PrajaSakti_AP-Main.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/o4rsu4hsqyia6bs/PrajaSakti_AP-Main.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
+	
+	{
+		"Names": "Surya",
+		"IconUrl": "https://dl.dropboxusercontent.com/s/0hwbsg4ui0vcmdd/Surya_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/zxpvg8r4pr3q2zb/Surya_Andhra-Pradesh.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	}
+]
