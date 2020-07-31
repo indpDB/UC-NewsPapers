@@ -2,12 +2,13 @@
 	{
 		"Names": "MainEdition",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.pdf"
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.pdf"
 	},
 	{
 		"Names": "Ananthapur",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Dist/Ananthapur.pdf"
+		
 	},
 	{
 		"Names": "Chittoor",
