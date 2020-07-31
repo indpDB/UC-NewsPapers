@@ -13,13 +13,6 @@
 		"DisticEditions": "Yes",
 		"DisticEditionsLinks": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/APAndhrajyothiDisst.json"
 	},
-/*{
-		"Names": "Eenadu",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/9p4ymzgy0n4nsqv/Eenadu_AndhraPradesh.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/1v8zwgszfauuvem/Eenadu_AndhraPradesh.pdf",
-		"DisticEditions": "No",
-		"DisticEditionsLinks": ""
-	},*/
 	{
 		"Names": "AndhraPrabha",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Prabha_Andhra-Pradesh-Main.jpg",
@@ -29,45 +22,45 @@
 	},
 	{
 		"Names": "Sakshi",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/tl8p4bx21du9ttu/Sakshi_Andhra-Pradesh.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/k7dqae2xtvmj0pn/Sakshi_Andhra-Pradesh.pdf",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Sakshi_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/Sakshi_Andhra-Pradesh.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	
 	{
 		"Names": "Manam",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/8yln94xa51d6nv6/Manam_Andhra-Pradesh.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/zz98zwry5guhukg/Manam_Andhra-Pradesh.pdf",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Manam_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/Manam_Andhra-Pradesh.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "Vartha",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/5v59mpnemabdnoh/Vaartha_Andhra-Pradesh.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/7itm63zsloxz8og/Vaartha_Andhra-Pradesh.pdf",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Vaartha_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/Vaartha_Andhra-Pradesh.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "Visalandhra",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/2edn49n1a1ruzpb/Visalaandra_andhrapradesh_.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/k8pewsqyqh5fydg/Visalaandra_andhrapradesh_.pdf",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Visalaandra_andhrapradesh_.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/Visalaandra_andhrapradesh_.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "PrajaSakthi",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/ekl3rb7lpofobzs/PrajaSakti_AP-Main.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/o4rsu4hsqyia6bs/PrajaSakti_AP-Main.pdf",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/PrajaSakti_AP-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/PrajaSakti_AP-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	
 	{
 		"Names": "Surya",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/0hwbsg4ui0vcmdd/Surya_Andhra-Pradesh.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/zxpvg8r4pr3q2zb/Surya_Andhra-Pradesh.pdf",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Surya_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/Surya_Andhra-Pradesh.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	}
