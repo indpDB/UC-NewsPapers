@@ -2,7 +2,7 @@
 	{
 		"Names": "MainEdition",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.pdf",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.pdf"
 	},
 	{
 		"Names": "Ananthapur",
@@ -11,82 +11,82 @@
 	},
 	{
 		"Names": "Chittoor",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/0c5v6xi4gqbmj93/Chittoor.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/vfql2ady8r0yaep/Chittoor.pdf"
 	},
 	{
 		"Names": "East-Godavari",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/smpaze42mkv1m7o/East-Godavari.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/y7evx7ei03iyfoy/East-Godavari.pdf"
 	},
 	{
 		"Names": "Guntur",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/9tg522qnsbfjm1y/Guntur.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/ridx1y6mks2dl3k/Guntur.pdf"
 	},
 	{
 		"Names": "kadapa",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/040huiw4tgrnpmb/kadapa.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/ridx1y6mks2dl3k/Guntur.pdf"
 	},
 	{
 		"Names": "Krishna",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/vg6vid8gma32rml/Krishna.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/9kzkpelm04ktt9r/Krishna.pdf"
 	},
 	{
 		"Names": "Kurnool",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/vve2rf7fnyhfvsy/Kurnool.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/db05h7idf5zk0c6/Kurnool.pdf"
 	},
 	{
 		"Names": "Nellore",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/tcpko24nfvvh731/Nellore.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/wg1wfgnxbn8ys0j/Nellore.pdf"
 	},
 	{
 		"Names": "Nellore-City",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/e0njv8o713l4h7a/Nellore-City.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/dwgrwzkkiaerhdq/Nellore-City.pdf"
 	},
 	{
 		"Names": "Prakasam",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/t6av8jndni3icso/Prakasam.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/to5j142p51ftik0/Prakasam.pdf"
 	},
 	{
 		"Names": "Srikakulam",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/fj6bly9wfyk82us/Srikakulam.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/lztah300frhm3pp/Srikakulam.pdf"
 	},
 	{
 		"Names": "Tirupati-city",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/bl8kq77nv1x0fhp/Tirupati-city.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/huzny3ibgrtgdel/Tirupati-city.pdf"
 	},
 	{
 		"Names": "Vijayawada",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/9bwuzj4a1hfmh8m/Vijayawada.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/un3axcp8pwre3dx/Vijayawada.pdf"
 	},
 	{
 		"Names": "Visakhapatnam",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/porire9p7h2i1xz/Visakhapatnam.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/273jofr84kg93cd/Visakhapatnam.pdf"
 	},
 	{
 		"Names": "Visakhapatnam-City",
-	"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/upx3uwz48jags3q/Visakhapatnam-City.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/fmpa7dv75qpb571/Visakhapatnam-City.pdf"
 	},
 	{
 		"Names": "Vizianagaram",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/k44oukbn0h1no69/Vizianagaram.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/mrke4rmhwsc6u24/Vizianagaram.pdf"
 	},
 	{
 		"Names": "West-Godavari",
-		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Dist/Ananthapur.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ap_Dist/Ananthapur.pdf"
+		"IconUrl": "https://dl.dropboxusercontent.com/s/n4m9ttogtw4cfn9/West-Godavari.jpg",
+		"PdfUrl": "https://dl.dropboxusercontent.com/s/sz6ppwck6568sjk/West-Godavari.pdf"
 	}
 ]
