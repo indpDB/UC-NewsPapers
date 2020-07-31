@@ -1,89 +1,86 @@
 [
 	
-	
-	
-	
 	{
 		"Names": "DeccanCronicle - Main & Dist Edtions",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/pvozfl6ygcc6nsq/DeccanCronicle.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/qgtdqq9443fy8ab/DeccanCronicle.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/DeccanCronicle.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/DeccanCronicle.pdf",
 		"DisticEditions": "Yes",
-		"DisticEditionsLinks": "https://dl.dropboxusercontent.com/s/4ohn9wyn9yqwjxn/EngDeccanCronicleDIst.json"
+		"DisticEditionsLinks": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/EngDeccanCronicleDIst.json"
 },
 	{
 		"Names": "FinacialExpress",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/9mm2mxtftpvoky7/FinacialExpress.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/anrno0dbl4jrurb/FinacialExpress.pdf?",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/FinacialExpress.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/FinacialExpress.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "HansIndia",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/7fxgc2k931he48z/HansIndia.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/66rkq9xuddlwk7a/HansIndia.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/HansIndia.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/HansIndia.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 /*{
 		"Names": "HindustanTimes",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/grou92em590xyk4/HindustanTimes.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/0mpensp5lfh6nvk/HindustanTimes.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/HindustanTimes.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/HindustanTimes.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},*/
 	/*{
 		"Names": "MumbaiMirror",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/v7xvexb14q18t1t/MumbaiMirror.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/vqbw12o7b8y2x8t/MumbaiMirror.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/MumbaiMirror.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/MumbaiMirror.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},*/
 {
 		"Names": "TheAsianAge",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/2ns440fdj3tcuqq/TheAsianAge.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/3bfuhk8te71cark/TheAsianAge.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheAsianAge.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheAsianAge.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 },
 	/*{
 		"Names": "TheEconomicTimes",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/stxjh7tuohgnqhu/TheEconomicTimes.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/bevbgx0u6v606qg/TheEconomicTimes.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheEconomicTimes.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheEconomicTimes.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},*/
 	{
 		"Names": "TheHindu",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/6fdu7xf70y6q0oe/TheHindu.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/gidx04a1sdvgw5m/TheHindu.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheHindu.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheHindu.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "TheTimeOfIndia",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/wpfs8zzx8p2j493/TheTimeOfIndia.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/mvcxm9j0kny9ilr/TheTimeOfIndia.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheEconomicTimes.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheEconomicTimes.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "TheTribune",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/clbkhuuliaap7v1/TheTribune.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/jo8rlv3wf6lewzx/TheTribune.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheTribune.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheTribune.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "MailToday",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/wkukhu7aadg4362/MailToday.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/yhx20atept1lgau/MailToday.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/MailToday.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/MailToday.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "TheStatesMan",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/f56cwrzqlv1r6f9/TheStatesMan.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/8tilhl7w8aepc6t/TheStatesMan.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheStatesMan.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheStatesMan.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	}
