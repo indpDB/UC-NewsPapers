@@ -11,7 +11,7 @@
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.pdf",
 		"DisticEditions": "Yes",
-		"DisticEditionsLinks": "https://dl.dropboxusercontent.com/s/fx3vqrarx4lniae/APAndhrajyothiDisst.json"
+		"DisticEditionsLinks": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/APAndhrajyothiDisst.json"
 	},
 /*{
 		"Names": "Eenadu",
