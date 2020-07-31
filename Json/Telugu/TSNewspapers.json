@@ -9,105 +9,98 @@
 	{
 		"Names": "AndhraJyothi - Main & Dist Editions ",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ts_Main/AndhraJyothi_Telangana.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/blob/master/Ts_Main/AndhraJyothi_Telangana.pdf",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AndhraJyothi_Telangana.pdf",
 		"DisticEditions": "Yes",
 		"DisticEditionsLinks": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/TSAndhrajyothiDist.json"
 	},
-/*{
-		"Names": "Eenadu",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/ynop0r9jbco4kqa/Eenadu_Telangana.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/yy9q4v8dpam7yth/Eenadu_Telangana.pdf",
-		"DisticEditions": "No",
-		"DisticEditionsLinks": ""
-	},*/
 	{
 		"Names": "AadabHyderabad ",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/nrjmnv7arp6azec/AadabHyderabad-Main.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/h0pp13e520eru4t/AadabHyderabad-Main.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AadabHyderabad-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AadabHyderabad-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "AndhraPrabha",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/rpvl5rwp3fpp2jl/Leader.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/78h5dwvmncazw3a/Leader.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Prabha_Telangana-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Prabha_Telangana-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "Leader",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/0rmex75u2xqtj8g/Manam_Telangana.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/vhzawfud3pim7yd/Manam_Telangana.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Leader.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Leader.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "Manam",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/f3vunuw8x9oqe0w/ManaTelangana.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/t9uohmf26dj6ts1/ManaTelangana.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Manam_Telangana.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Manam_Telangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "ManaTelangana",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/2gkn4erwnu6g9nm/NamastheTelangana-Main.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/19clcqxatojc9ws/NamastheTelangana-Main.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Manam_Telangana.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Manam_Telangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "NamastheTelangana",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/32v3tn2izihcwx3/NavaTelangana.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/9f2h7c7426xoxe5/NavaTelangana.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NamastheTelangana-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NavaTelangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "NavaTelangana",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/ibxzd4guusr9q46/Prabha_Telangana-Main.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/xke9gsqk5krnbuy/Prabha_Telangana-Main.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NavaTelangana.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NavaTelangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "PrajaSakthi",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/u7zdw5elz1fu5lo/PrajaSakti_TELANGANA-Main.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/atrhi7bq0ygg47v/PrajaSakti_TELANGANA-Main.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/PrajaSakti_TELANGANA-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/PrajaSakti_TELANGANA-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "Sakshi",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/ted2c0hcmyuissy/Sakshi_Telangana.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/5g6qdze0vx4nkol/Sakshi_Telangana.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Sakshi_Telangana.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Sakshi_Telangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "Surya",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/gcvepr7c05hqugb/Surya_Telangana.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/6vggzuclfp8o5q9/Surya_Telangana.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Surya_Telangana.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Surya_Telangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "V6Velugu",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/pyusrt8moo4xtdb/V6-Prabhatha-Velugu-Main.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/927omcc71n7alfs/V6-Prabhatha-Velugu-Main.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/V6-Prabhatha-Velugu-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/V6-Prabhatha-Velugu-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "Vartha",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/c6grj3ck6469pj7/Vaartha_Telangana.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/ezjgqueflonwz9q/Vaartha_Telangana.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Vaartha_Telangana.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Vaartha_Telangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
 	{
 		"Names": "Visalandhra",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/x2jj05gi3j1wdgt/Visalaandra_hyderabad_.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/zcseh64jx33twbo/Visalaandra_hyderabad_.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Visalaandra_hyderabad_.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Visalaandra_hyderabad_.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	}
