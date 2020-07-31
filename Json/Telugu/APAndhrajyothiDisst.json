@@ -1,8 +1,8 @@
 [
 	{
 		"Names": "MainEdition",
-		"IconUrl": "https://dl.dropboxusercontent.com/s/66zpu08eshhynim/AndhraJyothi_Andhra-Pradesh.jpg",
-		"PdfUrl": "https://dl.dropboxusercontent.com/s/ibk6k5oewwt3quw/AndhraJyothi_Andhra-Pradesh.pdf"
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.jpg",
+		"PdfUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/AndhraJyothi_Andhra-Pradesh.pdf",
 	},
 	{
 		"Names": "Ananthapur",
