@@ -1,17 +1,17 @@
 [
 	{
 		"TabName": "EnglishNewsPapers",
-		"Url": "https://dl.dropboxusercontent.com/s/xx4dw2ezrc88jww/EnglishNewsPapers.json",
+		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/English/EnglishNewsPapers.json",
 		"Type": "No"
 	},
 	{
 		"TabName": "Live News",
-		"Url": "https://dl.dropboxusercontent.com/s/gmezuuv557rfp13/LiveNews.json",
+		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/English/LiveNews.json",
 		"Type": "Yes"
 	},
 	{
 		"TabName": "FlashNews",
-		"Url": "https://dl.dropboxusercontent.com/s/42k227vswc29t04/FlashNews.json",
+		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/English/FlashNews.json",
 		"Type": "Yes"
 	}
 ]
