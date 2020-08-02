@@ -12,22 +12,22 @@
 	{
 		"Tab_LiveTV_Names": "AP24x7",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/AP-24x7.png",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=T0Brv0AqgkA"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=Y2HBK7Ix9Ro"
 	},
 	{
 		"Tab_LiveTV_Names": "HMTV",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/HMTV.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=naAzroMRrJ8"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=ErZT6EPy_gI"
 	},
 	{
 		"Tab_LiveTV_Names": "ETV-AP",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/ETV-Andhrapradesh.jpg",
-		"Tab_LiveTv_VideoUrl": "https://youtu.be/sOeDDRud0as"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=DCeWqe0xO7I"
 	},
 	{
 		"Tab_LiveTV_Names": "ETV-TS",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/ETV-Telangana.jpg",
-		"Tab_LiveTv_VideoUrl": "https://youtu.be/5zBKMJYdNjY"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=lIppb4BYUdo"
 	},
 	{
 		"Tab_LiveTV_Names": "TV5",
@@ -47,7 +47,7 @@
 	{
 		"Tab_LiveTV_Names": "T-News",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/T-News.png",
-		"Tab_LiveTv_VideoUrl": "https://youtu.be/qLJI86-9Yv4"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=s1Qh8sD8_fw"
 	},
 	{
 		"Tab_LiveTV_Names": "10Tv",
@@ -62,7 +62,7 @@
 	{
 		"Tab_LiveTV_Names": "CVRNews",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/CVR-News.jpg",
-		"Tab_LiveTv_VideoUrl": "https://youtu.be/YGkTgp3RnTk"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=L_SjzGBi4TY"
 	},
 	{
 		"Tab_LiveTV_Names": "BharatToday",
@@ -72,6 +72,6 @@
 	{
 		"Tab_LiveTV_Names": "99TV",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/99TV.jpg",
-		"Tab_LiveTv_VideoUrl": "https://youtu.be/kW7dYyQL4gU"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=95ANZT-BZj4"
 	}
 ]
