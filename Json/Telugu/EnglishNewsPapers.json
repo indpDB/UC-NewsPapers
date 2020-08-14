@@ -56,13 +56,13 @@
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
-	{
+	/*{
 		"Names": "TheTimeOfIndia",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheEconomicTimes.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheEconomicTimes.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-	},
+},*/
 	{
 		"Names": "TheTribune",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheTribune.jpg",
@@ -70,13 +70,13 @@
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
-	{
+/*{
 		"Names": "MailToday",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/MailToday.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/MailToday.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-	},
+},*/
 	{
 		"Names": "TheStatesMan",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_Main/TheStatesMan.jpg",
