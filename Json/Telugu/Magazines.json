@@ -13,13 +13,13 @@
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
-		{
+/*{
 		"Names": "Eendu",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Books/Eenadu.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Books/Eenadu.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-},
+	},*/
 	{
 		"Names": "NamastheTelangana",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Books/NamastheTelangana.jpg",
