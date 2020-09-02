@@ -27,13 +27,13 @@
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
-	{
+	/*{
 		"Names": "Leader",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Leader.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Leader.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-	},
+	},*/
 	{
 		"Names": "Manam",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Manam_Telangana.jpg",
