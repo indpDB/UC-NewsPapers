@@ -22,12 +22,12 @@
 	{
 		"Tab_LiveTV_Names": "ETV-AP",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/ETV-Andhrapradesh.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=DCeWqe0xO7I"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=Y2Ba3N-HOj8"
 	},
 	{
 		"Tab_LiveTV_Names": "ETV-TS",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/ETV-Telangana.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=lIppb4BYUdo"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=KoAsoub7-8g"
 	},
 	{
 		"Tab_LiveTV_Names": "TV5",
@@ -47,12 +47,12 @@
 	{
 		"Tab_LiveTV_Names": "T-News",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/T-News.png",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=s1Qh8sD8_fw"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=M3N7oAxlgF8"
 	},
 	{
 		"Tab_LiveTV_Names": "10Tv",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/10TV.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=yA1P_udg-uU"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=-Zu4EqWBy_k"
 	},
 	{
 		"Tab_LiveTV_Names": "Sakshi",
@@ -62,7 +62,7 @@
 	{
 		"Tab_LiveTV_Names": "CVRNews",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/CVR-News.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=L_SjzGBi4TY"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=Eod5deABVG4"
 	},
 	{
 		"Tab_LiveTV_Names": "BharatToday",
@@ -72,6 +72,6 @@
 	{
 		"Tab_LiveTV_Names": "99TV",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/Telugu/99TV.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=95ANZT-BZj4"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=NVOdvRpeTkg"
 	}
 ]
