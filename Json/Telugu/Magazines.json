@@ -68,5 +68,12 @@
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Books/Visalaandhra.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
+	},
+	{
+		"Names": "Vartha",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Books/Vaartha.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Books/Vaartha.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
 	}
 ]
