@@ -20,7 +20,7 @@
 		"TabName": "LiveTV",
 		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/LiveTV.json",
 		"Type": "Yes"
-		}
+		},
 	{
 		"TabName": "Magazines",
 		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/Magazines.json",
