@@ -16,12 +16,12 @@
 	},
 	{
 		"Tab_LiveTV_Names": "Vartha",
-		"Tab_LiveTv_IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/FlashNewsIcons/Telugu4.png",
+		"Tab_LiveTv_IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/FlashNewsIcons/Telugu/4.png",
 		"Tab_LiveTv_VideoUrl": "http://www.vaartha.com"
 	},
 	{
 		"Tab_LiveTV_Names": "Surya",
-		"Tab_LiveTv_IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/FlashNewsIcons/Telugu/Telugu/5.png",
+		"Tab_LiveTv_IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/FlashNewsIcons/Telugu/5.png",
 		"Tab_LiveTv_VideoUrl": "http://telugu.suryaa.com"
 	},
 	{
