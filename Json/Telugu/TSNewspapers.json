@@ -13,13 +13,13 @@
 		"DisticEditions": "Yes",
 		"DisticEditionsLinks": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/TSAndhrajyothiDist.json"
 	},
-	{
+	/*{
 		"Names": "AadabHyderabad ",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AadabHyderabad-Main.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AadabHyderabad-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-	},
+	},*/
 	{
 		"Names": "AndhraPrabha",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Prabha_Telangana-Main.jpg",
