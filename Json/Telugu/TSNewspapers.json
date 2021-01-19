@@ -43,7 +43,7 @@
 	},*/
 	{
 		"Names": "ManaTelangana",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/ManaTelangana",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ts_Main/ManaTelangana.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/ManaTelangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
