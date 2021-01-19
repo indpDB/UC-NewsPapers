@@ -1,61 +1,26 @@
 [
-	/*{
-		"Names": "",
-		"IconUrl": "",
-		"PdfUrl": "",
-		"DisticEditions": "",
-		"DisticEditionsLinks": ""
-	},*/
+	
 	{
 		"Names": "AndhraJyothi - Main & Dist Editions ",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ts_Main/AndhraJyothi_Telangana.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AndhraJyothi_Telangana.pdf",
 		"DisticEditions": "Yes",
 		"DisticEditionsLinks": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/TSAndhrajyothiDist.json"
-	},
-	/*{
-		"Names": "AadabHyderabad ",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AadabHyderabad-Main.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AadabHyderabad-Main.pdf",
-		"DisticEditions": "No",
-		"DisticEditionsLinks": ""
-	},*/
+	},	
 	{
 		"Names": "AndhraPrabha",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Prabha_Telangana-Main.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Prabha_Telangana-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-	},
-	/*{
-		"Names": "Leader",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Leader.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Leader.pdf",
-		"DisticEditions": "No",
-		"DisticEditionsLinks": ""
-	},*/
-	/*{
-		"Names": "Manam",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Manam_Telangana.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Manam_Telangana.pdf",
-		"DisticEditions": "No",
-		"DisticEditionsLinks": ""
-	},*/
+	},	
 	{
 		"Names": "ManaTelangana",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ts_Main/ManaTelangana.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/ManaTelangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-	},
-	/*{
-		"Names": "NamastheTelangana",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NamastheTelangana-Main.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NavaTelangana.pdf",
-		"DisticEditions": "No",
-		"DisticEditionsLinks": ""
-		},*/
-		
+	},			
 	{
 		"Names": "NavaTelangana",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NavaTelangana.jpg",
