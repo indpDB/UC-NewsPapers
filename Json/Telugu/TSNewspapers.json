@@ -48,14 +48,13 @@
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
-	{
+	/*{
 		"Names": "NamastheTelangana",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NamastheTelangana-Main.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NavaTelangana.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-	},
-	{
+		},*/
 		"Names": "NavaTelangana",
 		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NavaTelangana.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/NavaTelangana.pdf",
