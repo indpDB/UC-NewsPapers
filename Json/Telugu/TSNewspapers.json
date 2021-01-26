@@ -1,6 +1,13 @@
 [
 	
 	{
+		"Names": "AadabHyderabad",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AadabHyderabad-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AadabHyderabad-Main.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},	
+	{
 		"Names": "AndhraJyothi - Main & Dist Editions ",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ts_Main/AndhraJyothi_Telangana.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/AndhraJyothi_Telangana.pdf",
