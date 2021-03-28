@@ -27,14 +27,21 @@
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
+	{
+		"Names": "Sakshi Plus",
+		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Sakshi-Plus.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/Sakshi-Plus.pdf",
+		"DisticEditions": "No",
+		"DisticEditionsLinks": ""
+	},
 	
-	/*{
+	{
 		"Names": "Manam",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Manam_Andhra-Pradesh.jpg",
 		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ap_Main/Manam_Andhra-Pradesh.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
-	},*/
+	},
 	{
 		"Names": "Vartha",
 		"IconUrl": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Ap_Main/Vaartha_Andhra-Pradesh.jpg",
