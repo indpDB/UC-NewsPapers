@@ -2,26 +2,26 @@
 	{
 		"Tab_LiveTV_Names": "Indian Today",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/English/IndiaToday.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=dA2cWLqsKBk"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/c/indiatoday/featured"
 	},
 	{
 		"Tab_LiveTV_Names": "CCN LIve",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/English/ccn.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=VUhPwLtqByA"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/user/ibnlive"
 	},
 	{
 		"Tab_LiveTV_Names": "DW Live",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/English/dw.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=NvqKZHpKs-g"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/user/deutschewelleenglish"
 	},
 	{
 		"Tab_LiveTV_Names": "Al Jazeera",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/English/Aljazeera.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=EOBY5J0b9Uo"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/user/AlJazeeraEnglish"
 	},
 	{
 		"Tab_LiveTV_Names": "CNBC TV18",
 		"Tab_LiveTv_IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/LiveTvIcons/English/CNBC-TV-18.jpg",
-		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/watch?v=VN_qAz4P0qI"
+		"Tab_LiveTv_VideoUrl": "https://www.youtube.com/user/CNBCTV18"
 	}
 ]
