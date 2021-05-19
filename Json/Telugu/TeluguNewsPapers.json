@@ -9,12 +9,7 @@
 		"TabName": "TS-papers ",
 		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/TSNewspapers.json",
 		"Type": "No"
-	},
-	{
-		"TabName": "FlashNews",
-		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/FlashNews.json",
-		"Type": "Yes"
-	},
+	},	
 	
 	{
 		"TabName": "Magazines",
