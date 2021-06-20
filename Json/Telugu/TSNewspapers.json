@@ -51,8 +51,8 @@
 	},
 	{
 		"Names": "Sakshi",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Sakshi_Telangana.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Sakshi_Telangana.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Sakshi_Telangana-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Sakshi_Telangana-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	},
@@ -86,8 +86,8 @@
 	},
 	{
 		"Names": "Visalandhra",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Visalaandra_hyderabad_.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Visalaandra_hyderabad_.pdf",
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Vishalandra_Telangana-Main.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Ts_Main/Vishalandra_Telangana-Main.pdf",
 		"DisticEditions": "No",
 		"DisticEditionsLinks": ""
 	}

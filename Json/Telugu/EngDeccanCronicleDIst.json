@@ -6,53 +6,53 @@
 	},
 	{
 		"Names": "Anantapur",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Ananthapur_DC.jpg",		
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Ananthapur_DC.pdf"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Anantapur.jpg",		
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Anantapur.pdf"
 	},
 	{
 		"Names": "Chennai",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Chennai_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Chennai_DC.pdf"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Chennai.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Chennai.pdf"
 	},
 	{
 		"Names": "Coimbatore",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Coimbatore_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Coimbatore_DC.jpg"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Coimbatore.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Coimbatore.jpg"
 	},
 	{
 		"Names": "Hyderabad",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Hyderabad_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Hyderabad_DC.pdf"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Hyderabad.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Hyderabad.pdf"
 	},
 	{
 		"Names": "Karimnagar",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Karimnagar_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Karimnagar_DC.pdf"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Karimnagar.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Karimnagar.pdf"
 	},
 	{
 		"Names": "Madurai",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Madurai_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Madurai_DC.pdf"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Madurai.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Madurai.pdf"
 	},
 	{
 		"Names": "Nellore",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Nellore_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Nellore_DC.pdf"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Nellore.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Nellore.pdf"
 	},
 	{
 		"Names": "Rajahmundry",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Rajahmundry_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Rajahmundry_DC.pdf"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Rajahmundry.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Rajahmundry.pdf"
 	},
 	
 	{
 		"Names": "Vijayawada",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Vijayawada_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Vijayawada_DC.pdf"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Vijayawada.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Vijayawada.pdf"
 	},
 	{
 		"Names": "Vizag",
-		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Vizag_DC.jpg",
-		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Vizag_DC.jpg"
+		"IconUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Vizag.jpg",
+		"PdfUrl": "https://github.com/indpDB/UC-NewsPapers/raw/master/Eng_DIst/Vizag.jpg"
 	}
 ]
