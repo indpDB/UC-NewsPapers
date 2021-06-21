@@ -1,15 +1,5 @@
 [
-	{
-		
-		"TabName": "AP-Papers",
-		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/APNwesPapers.json",
-		"Type": "No"
-	},
-	{
-		"TabName": "TS-papers ",
-		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/TSNewspapers.json",
-		"Type": "No"
-	},
+	
 	{
 		"TabName": "FlashNews",
 		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/FlashNews.json",
@@ -20,16 +10,8 @@
 		"TabName": "LiveTV",
 		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/LiveTV.json",
 		"Type": "Yes"
-	},
-	{
-		"TabName": "Magazines",
-		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/Magazines.json",
-		"Type": "No"
-	},	
-	{
-		"TabName": "EnglishNewsPapers",
-		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/EnglishNewsPapers.json",
-		"Type": "No"
 	}
+	
+	
 	
 ]

@@ -1,5 +1,10 @@
 [
-		{
+	{
+		"TabName": "EnglishNewsPapers",
+		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/Telugu/EnglishNewsPapers.json",
+		"Type": "No"
+	},
+	{
 		"TabName": "Live News",
 		"Url": "https://raw.githubusercontent.com/indpDB/UC-NewsPapers/master/Json/English/LiveNews.json",
 		"Type": "Yes"
